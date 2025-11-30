@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import { supabase } from "./lib/supabase";
 
 import Home from "./pages/Home";
-import Auth from "./pages/Auth";
+import Auth from "./pages/auth";
 import NewPost from "./pages/NewPost";
 import EditPost from "./pages/EditPost";
 import Post from "./pages/Post";
